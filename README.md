@@ -1,6 +1,6 @@
 # Assignment
 
-- # Assignment 1
+- ## Assignment 1
 
 [Assignment 1.pdf](https://github.com/NabilaTarannum/Assignment/files/8117567/assignment.1.pdf)
 
