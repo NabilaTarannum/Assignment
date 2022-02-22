@@ -14,6 +14,6 @@
 
 - ## Assignment 3
 
- - [assignment 3.pdf](https://github.com/NabilaTarannum/Assignment/files/8117881/assignment.3.pdf)
+  - [assignment 3.pdf](https://github.com/NabilaTarannum/Assignment/files/8117881/assignment.3.pdf)
 
 ![Assignment 3](https://user-images.githubusercontent.com/89971373/155164590-0b4953ff-e557-4dbe-886d-c04a4118d530.jpg)
