@@ -1,5 +1,0 @@
-print(' CCCCC')
-print('CC    ')
-print('C     ')
-print('CC    ')
-print(' CCCCC')
