@@ -5,5 +5,6 @@
 ![tempImageIdif7y](https://user-images.githubusercontent.com/89971373/155163437-9656f99b-8827-4ece-aadb-b1cb7ea6ab83.gif)
 
 ## Assignment 2
-![assignment 2.pdf](https://github.com/NabilaTarannum/Assignment/files/8117622/assignment.2.pdf)
+[assignment 2.pdf](https://github.com/NabilaTarannum/Assignment/files/8117622/assignment.2.pdf)
 
+![assignment 2](https://user-images.githubusercontent.com/89971373/155163959-2db60cca-5a7e-42ed-82bb-c81701c1a4ca.jpg)
