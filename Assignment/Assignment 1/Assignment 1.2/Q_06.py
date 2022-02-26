@@ -1,6 +1,6 @@
-length = float(input('Please Enter the Length of a Triangle: '))
-width = float(input('Please Enter the Width of a Triangle: '))
+l = float(input('Please Enter the Length of a Triangle: '))
+w = float(input('Please Enter the Width of a Triangle: '))
 
-area = length * width
+area = l * w
 
-print("The Area of a Rectangle using", length, "and", width, " = ", area)
+print("The Area of a Rectangle using", l, "and", w, " = ", area)
